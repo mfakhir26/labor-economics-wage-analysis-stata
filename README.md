@@ -3,7 +3,7 @@
 # Project Overview
 The objective of this project is to build a regression model on the response variable 'average hourly earnings'.
 
-**Key Components of the Analysis Include:
+**Key Components of the Analysis Include:**
 - Converting raw dummy variables into categorical variables and then using them in the model.
 - Model Evaluation and diagnostics
 
