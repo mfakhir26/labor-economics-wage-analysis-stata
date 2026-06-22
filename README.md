@@ -1,4 +1,4 @@
-# Wage Determinants Analysis Using Multiple Regression - STATA
+# OLS Regression Analysis of Wage Determinants Using STATA
 
 # Project Overview
 The objective of this project is to build a regression model on the response variable 'average hourly earnings'.
